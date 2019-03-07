@@ -1,1 +1,1 @@
-# VGG-ResUnet
+# VGG-ResUnet TensorFlow implementation
